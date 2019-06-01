@@ -1,0 +1,14 @@
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\bin\Debug\netcoreapp2.2\MyMovies.deps.json
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\bin\Debug\netcoreapp2.2\MyMovies.runtimeconfig.json
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\bin\Debug\netcoreapp2.2\MyMovies.runtimeconfig.dev.json
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\bin\Debug\netcoreapp2.2\MyMovies.dll
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\bin\Debug\netcoreapp2.2\MyMovies.pdb
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.csprojAssemblyReference.cache
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.csproj.CoreCompileInputs.cache
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.RazorAssemblyInfo.cache
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.RazorAssemblyInfo.cs
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.AssemblyInfoInputs.cache
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.AssemblyInfo.cs
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.RazorTargetAssemblyInfo.cache
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.dll
+C:\Users\Yondri\Documents\Projects\dotnet\MyMovies\obj\Debug\netcoreapp2.2\MyMovies.pdb
